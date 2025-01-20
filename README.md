@@ -6,11 +6,11 @@ Please cite our work as follows if you use UniQA
 
 ```
 @inproceedings{siragusa2024uniqa,
-  author = {Siragusa, Irene and Pirrone, Roberto},
+	author = {Siragusa, Irene and Pirrone, Roberto},
 	title={UniQA: an Italian and English Question-Answering Data Set Based on Educational Documents},
-  booktitle={Proceedings of the Eighth Workshop on Natural Language for Artificial Intelligence (NL4AI 2024) co-located with 23th International Conference of the Italian Association for Artificial Intelligence (AI* IA 2024)},
+	booktitle={Proceedings of the Eighth Workshop on Natural Language for Artificial Intelligence (NL4AI 2024) co-located with 23th International Conference of the Italian Association for Artificial Intelligence (AI* IA 2024)},
 	year = {2024},
-  address= {Bolzano, Italy}
+	address= {Bolzano, Italy}
 }
 ```
 
