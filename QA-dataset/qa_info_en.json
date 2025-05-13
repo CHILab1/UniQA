@@ -7419,7 +7419,7 @@
         "question": "What are the available curriculum for the master degree in clinical psychology?",
         "context": [
             "2048_NEUROPSUCHOLOGY_dettagli_en.txt",
-            "2048_NEUROPSUCHOLOGY_piano_studi_en.txt",
+            "2048_NEUROPSYCHOLOGY_piano_studi_en.txt",
             "2048_RELATIONSHIP AND CARE_dettagli_en.txt",
             "2048_RELATIONSHIP AND CARE_piano_studi_en.txt"
         ],
@@ -7429,7 +7429,7 @@
         "question": "Is the master degree in clinical psychology a open or closed access course?",
         "context": [
             "2048_NEUROPSUCHOLOGY_dettagli_en.txt",
-            "2048_NEUROPSUCHOLOGY_piano_studi_en.txt",
+            "2048_NEUROPSYCHOLOGY_piano_studi_en.txt",
             "2048_RELATIONSHIP AND CARE_dettagli_en.txt",
             "2048_RELATIONSHIP AND CARE_piano_studi_en.txt"
         ],
@@ -7439,7 +7439,7 @@
         "question": "Where do the lessons of the master degree in clinical psychology take place?",
         "context": [
             "2048_NEUROPSUCHOLOGY_dettagli_en.txt",
-            "2048_NEUROPSUCHOLOGY_piano_studi_en.txt",
+            "2048_NEUROPSYCHOLOGY_piano_studi_en.txt",
             "2048_RELATIONSHIP AND CARE_dettagli_en.txt",
             "2048_RELATIONSHIP AND CARE_piano_studi_en.txt"
         ],
@@ -7449,7 +7449,7 @@
         "question": "Is it possible to obtain a double degree with a master degree in clinical psychology?",
         "context": [
             "2048_NEUROPSUCHOLOGY_dettagli_en.txt",
-            "2048_NEUROPSUCHOLOGY_piano_studi_en.txt",
+            "2048_NEUROPSYCHOLOGY_piano_studi_en.txt",
             "2048_RELATIONSHIP AND CARE_dettagli_en.txt",
             "2048_RELATIONSHIP AND CARE_piano_studi_en.txt"
         ],
@@ -7459,7 +7459,7 @@
         "question": "Provide me some information regarding the master degree in clinical psychology.",
         "context": [
             "2048_NEUROPSUCHOLOGY_dettagli_en.txt",
-            "2048_NEUROPSUCHOLOGY_piano_studi_en.txt",
+            "2048_NEUROPSYCHOLOGY_piano_studi_en.txt",
             "2048_RELATIONSHIP AND CARE_dettagli_en.txt",
             "2048_RELATIONSHIP AND CARE_piano_studi_en.txt"
         ],
@@ -12282,23 +12282,23 @@
         "answer": "To obtain the degree, students must have acquired all the credits required by the curriculum with the exception of the credits of the final test, which are acquired at the time of testing. The final test has the objective of assessing the level of maturity and critical skills of the undergraduate, with respect to learning and to the acquired knowledge, on completion of the activities provided by the course syllabus. The final examination consists of a written or oral test, in accordance with the rules fixed every year by the Degree Course Regulations for the final examination, respecting and consistent with the calendar, the ministerial requirements and to the relevant Guidelines of the University.\n"
     },
     {
-        "question": "What are the available curriculum for the bachelor degree in comp'uter engineering?",
+        "question": "What are the available curriculum for the bachelor degree in computer engineering?",
         "context": [
             "2178_COMPUTER ENGINEERING_dettagli_en.txt",
             "2178_COMPUTER ENGINEERING_piano_studi_en.txt"
         ],
-        "answer": "There are no available curriculum for the bachelor degree in comp'uter engineering. For more information visit the course website http://www.unipa.it/struttura.html?id=1618."
+        "answer": "There are no available curriculum for the bachelor degree in computer engineering. For more information visit the course website http://www.unipa.it/struttura.html?id=1618."
     },
     {
-        "question": "Is the bachelor degree in comp'uter engineering a open or closed access course?",
+        "question": "Is the bachelor degree in computer engineering a open or closed access course?",
         "context": [
             "2178_COMPUTER ENGINEERING_dettagli_en.txt",
             "2178_COMPUTER ENGINEERING_piano_studi_en.txt"
         ],
-        "answer": "The bachelor degree in comp'uter engineering is a closed access course with 280 seats available. For more information visit the course website http://www.unipa.it/struttura.html?id=1618."
+        "answer": "The bachelor degree in computer engineering is a closed access course with 280 seats available. For more information visit the course website http://www.unipa.it/struttura.html?id=1618."
     },
     {
-        "question": "Where do the lessons of the bachelor degree in comp'uter engineering take place?",
+        "question": "Where do the lessons of the bachelor degree in computer engineering take place?",
         "context": [
             "2178_COMPUTER ENGINEERING_dettagli_en.txt",
             "2178_COMPUTER ENGINEERING_piano_studi_en.txt"
@@ -12306,7 +12306,7 @@
         "answer": "Lessons are held in Palermo at the Engineering department. For more information visit the course website http://www.unipa.it/struttura.html?id=1618."
     },
     {
-        "question": "Is it possible to obtain a double degree with a bachelor degree in comp'uter engineering?",
+        "question": "Is it possible to obtain a double degree with a bachelor degree in computer engineering?",
         "context": [
             "2178_COMPUTER ENGINEERING_dettagli_en.txt",
             "2178_COMPUTER ENGINEERING_piano_studi_en.txt"
@@ -12314,29 +12314,29 @@
         "answer": "No, it is not possible to obtain a double degree, but it is possible to participate at the Erasmus program. For more information visit the course website http://www.unipa.it/struttura.html?id=1618."
     },
     {
-        "question": "Provide me some information regarding the bachelor degree in comp'uter engineering.",
+        "question": "Provide me some information regarding the bachelor degree in computer engineering.",
         "context": [
             "2178_COMPUTER ENGINEERING_dettagli_en.txt",
             "2178_COMPUTER ENGINEERING_piano_studi_en.txt"
         ],
-        "answer": "The bachelor degree in comp'uter engineering for the academic year 2024/2025 is a 3-year course held in Palermo at the Engineering department. It is a closed access course with 280 seats available. For more information visit the course website http://www.unipa.it/struttura.html?id=1618."
+        "answer": "The bachelor degree in computer engineering for the academic year 2024/2025 is a 3-year course held in Palermo at the Engineering department. It is a closed access course with 280 seats available. For more information visit the course website http://www.unipa.it/struttura.html?id=1618."
     },
     {
-        "question": "What are the educational objectives of the bachelor degree in comp'uter engineering?",
+        "question": "What are the educational objectives of the bachelor degree in computer engineering?",
         "context": [
             "2178_COMPUTER ENGINEERING_dettagli_en.txt"
         ],
         "answer": "The specific educational objectives of the Degree in Computer Engineering aim at the acquisition of the skills necessary for the design, implementation and management of information processing systems, ranging from the design of software systems and databases, to the management of networks and complex computer systems, which can be used in all application sectors with high added value typical of current information society.\nThe course provides a broad spectrum training, firmly grounded in engineering disciplines. Students will also acquire sound methodological and technical skills, enabling them to identify the better technical and algorithmic solutions to various problem related to information processing, which may arise within a broad range of production areas.\nThe course is designed with reference to specific learning areas, namely the areas of mathematics, physics, information engineering basics, computer engineering fundamentals and insights.\nDuring the first year, students acquire basic knowledge and skills in the fields of mathematics and physics, together with the first fundamentals of information engineering, including the fundamentals of programming and knowledge of the structure of computers.\nThe second year, in addition to allowing students to acquire additional skills in the field of mathematics and physics, is largely dedicated to the acquisition of skills and knowledge of computer engineering. Furthermore, during the second year, students enrich their cultural background with some related activities, aiming at integrating the programme with respect to the skills and knowledge characterizing the degree course.\nFinally, during the third year, students complete their training in the field of computer engineering, both from a foundational point of view, with particular reference to systemic aspects, and by addressing the study of subjects dedicated to in-depth studies in the sector, focusing, in particular, on advanced aspects of programming and design of information systems. In the same period, students acquire most of the related knowledge and skills required by the training project.\nOverall, the student is given the necessary skills to operate effectively within public and private facilities, and, thanks to the specific attention given to basic subjects, general groundings sufficient to acquire and rapidly adapt, even independently, their training. to the changing needs of the labour market.\n"
     },
     {
-        "question": "What are the professional opportunities that the bachelor degree in comp'uter engineering offer?",
+        "question": "What are the professional opportunities that the bachelor degree in computer engineering offer?",
         "context": [
             "2178_COMPUTER ENGINEERING_dettagli_en.txt"
         ],
         "answer": "Profile:\nJunior computer engineer\nFunctions:\nApplication and system software analyst/designer/developer\nComputer networks and communications specialist\nSkills:\nAnalysis of data processing issues for different application needs.\nDevelopment, modification or optimization of application and system software.\nIdentification and optimization of appropriate IT systems.\nCreation, integration and verification of the software used on a site or web application.\nDesign, implementation and management of computer networks.\nprofessional opportunities:\n- The freelance profession as an analyst, designer or tester of computer systems and computer networks, as well as a designer of software applications or parts of them. Access to the profession requires passing the national qualification exam and subsequent registration in the professional register of the Board of engineers.\n- Employment in public or private agencies, such as IT companies operating in the areas of hardware and software production, automation and robotics companies, companies operating in the area of information systems and computer networks, service companies , or companies for the provision of IT services to the public administration.\n- Continuation of studies with direct access to the 2nd cycle degree in Computer Engineering.\n"
     },
     {
-        "question": "What are the features of the final examination of the bachelor degree in comp'uter engineering?",
+        "question": "What are the features of the final examination of the bachelor degree in computer engineering?",
         "context": [
             "2178_COMPUTER ENGINEERING_dettagli_en.txt"
         ],
